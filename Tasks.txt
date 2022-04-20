@@ -1,0 +1,16 @@
+*******************Task One**********************************
+1.How to use Bootstrap CDN link?
+2.Bootstrap Utilities - 
+***Background, Borders, Colors, Flex, Sizing, Spacing
+**Text, Shadows
+*Display, Float, Interactions, Overflow, Visibility
+3.Component - 
+***Buttons, Card, Carousel, Modal, Navbar, Tooltips
+**Button group, Offcanvas, Pagination, Progress, Spinners
+*Accordion, Alerts, Badge, Scrollspy, Toasts
+4.Layout/Responsive -  
+***Breakpoints, Containers, Grid (১২ কলাম সিস্টেম), Gutters,Columns
+5.Form 
+6. Images কে কিভাবে রেস্পন্সিভ করতে হয়?
+7. Typography এর মধ্যে কি কি আছে?
+8. Tables এর মধ্যে কি কি করা যেতে পারে?
